@@ -1,0 +1,4 @@
+"<?xml version=\"1.0\" encoding=\"utf-8\"?>" + 
+"<node1>" + 
+    "<node2 parmeter1=\"true\">test</node2>" + 
+"</node1>"

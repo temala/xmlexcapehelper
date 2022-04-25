@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Modifiers.Test/Helpers.String.Modifiers.Test.csproj": {}
+  },
+  "projects": {
+    "/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Modifiers.Test/Helpers.String.Modifiers.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Modifiers.Test/Helpers.String.Modifiers.Test.csproj",
+        "projectName": "Helpers.String.Modifiers.Test",
+        "projectPath": "/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Modifiers.Test/Helpers.String.Modifiers.Test.csproj",
+        "packagesPath": "/Users/ridhatemala/.nuget/packages/",
+        "outputPath": "/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Modifiers.Test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ridhatemala/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Modifiers/Helpers.String.Modifiers.csproj": {
+                "projectPath": "/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Modifiers/Helpers.String.Modifiers.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Modifiers/Helpers.String.Modifiers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Modifiers/Helpers.String.Modifiers.csproj",
+        "projectName": "Helpers.String.Modifiers",
+        "projectPath": "/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Modifiers/Helpers.String.Modifiers.csproj",
+        "packagesPath": "/Users/ridhatemala/.nuget/packages/",
+        "outputPath": "/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Modifiers/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ridhatemala/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

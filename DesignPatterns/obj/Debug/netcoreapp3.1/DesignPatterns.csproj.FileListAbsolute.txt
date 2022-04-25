@@ -1,0 +1,15 @@
+/Users/ridhatemala/RiderProjects/DeveloperHelpers/DesignPatterns/bin/Debug/netcoreapp3.1/DesignPatterns.deps.json
+/Users/ridhatemala/RiderProjects/DeveloperHelpers/DesignPatterns/bin/Debug/netcoreapp3.1/DesignPatterns.runtimeconfig.json
+/Users/ridhatemala/RiderProjects/DeveloperHelpers/DesignPatterns/bin/Debug/netcoreapp3.1/DesignPatterns.runtimeconfig.dev.json
+/Users/ridhatemala/RiderProjects/DeveloperHelpers/DesignPatterns/bin/Debug/netcoreapp3.1/DesignPatterns.dll
+/Users/ridhatemala/RiderProjects/DeveloperHelpers/DesignPatterns/bin/Debug/netcoreapp3.1/DesignPatterns.pdb
+/Users/ridhatemala/RiderProjects/DeveloperHelpers/DesignPatterns/bin/Debug/netcoreapp3.1/Helpers.String.Modifiers.dll
+/Users/ridhatemala/RiderProjects/DeveloperHelpers/DesignPatterns/bin/Debug/netcoreapp3.1/Helpers.String.Modifiers.pdb
+/Users/ridhatemala/RiderProjects/DeveloperHelpers/DesignPatterns/obj/Debug/netcoreapp3.1/DesignPatterns.csprojAssemblyReference.cache
+/Users/ridhatemala/RiderProjects/DeveloperHelpers/DesignPatterns/obj/Debug/netcoreapp3.1/DesignPatterns.AssemblyInfoInputs.cache
+/Users/ridhatemala/RiderProjects/DeveloperHelpers/DesignPatterns/obj/Debug/netcoreapp3.1/DesignPatterns.AssemblyInfo.cs
+/Users/ridhatemala/RiderProjects/DeveloperHelpers/DesignPatterns/obj/Debug/netcoreapp3.1/DesignPatterns.csproj.CoreCompileInputs.cache
+/Users/ridhatemala/RiderProjects/DeveloperHelpers/DesignPatterns/obj/Debug/netcoreapp3.1/DesignPatterns.csproj.CopyComplete
+/Users/ridhatemala/RiderProjects/DeveloperHelpers/DesignPatterns/obj/Debug/netcoreapp3.1/DesignPatterns.dll
+/Users/ridhatemala/RiderProjects/DeveloperHelpers/DesignPatterns/obj/Debug/netcoreapp3.1/DesignPatterns.pdb
+/Users/ridhatemala/RiderProjects/DeveloperHelpers/DesignPatterns/obj/Debug/netcoreapp3.1/DesignPatterns.genruntimeconfig.cache

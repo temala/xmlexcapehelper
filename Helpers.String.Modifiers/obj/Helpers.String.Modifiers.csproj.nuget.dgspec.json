@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Modifiers/Helpers.String.Modifiers.csproj": {}
+  },
+  "projects": {
+    "/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Modifiers/Helpers.String.Modifiers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Modifiers/Helpers.String.Modifiers.csproj",
+        "projectName": "Helpers.String.Modifiers",
+        "projectPath": "/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Modifiers/Helpers.String.Modifiers.csproj",
+        "packagesPath": "/Users/ridhatemala/.nuget/packages/",
+        "outputPath": "/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Modifiers/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ridhatemala/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Modifiers/bin/Debug/netcoreapp3.1/Helpers.String.Modifiers.deps.json
+/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Modifiers/bin/Debug/netcoreapp3.1/Helpers.String.Modifiers.dll
+/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Modifiers/bin/Debug/netcoreapp3.1/Helpers.String.Modifiers.pdb
+/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Modifiers/bin/Debug/netcoreapp3.1/JetBrains.ReSharper.TestRunner.Abstractions.dll
+/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Modifiers/bin/Debug/netcoreapp3.1/JetBrains.ReSharper.TestRunner.Abstractions.pdb
+/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Modifiers/obj/Debug/netcoreapp3.1/Helpers.String.Modifiers.csprojAssemblyReference.cache
+/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Modifiers/obj/Debug/netcoreapp3.1/Helpers.String.Modifiers.AssemblyInfoInputs.cache
+/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Modifiers/obj/Debug/netcoreapp3.1/Helpers.String.Modifiers.AssemblyInfo.cs
+/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Modifiers/obj/Debug/netcoreapp3.1/Helpers.String.Modifiers.csproj.CoreCompileInputs.cache
+/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Modifiers/obj/Debug/netcoreapp3.1/Helpers.String.Modifiers.csproj.CopyComplete
+/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Modifiers/obj/Debug/netcoreapp3.1/Helpers.String.Modifiers.dll
+/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Modifiers/obj/Debug/netcoreapp3.1/Helpers.String.Modifiers.pdb

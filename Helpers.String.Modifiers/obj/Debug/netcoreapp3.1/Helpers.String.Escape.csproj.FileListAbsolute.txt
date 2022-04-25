@@ -1,0 +1,12 @@
+/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Escape/bin/Debug/netcoreapp3.1/Helpers.String.Escape.deps.json
+/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Escape/bin/Debug/netcoreapp3.1/Helpers.String.Escape.dll
+/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Escape/bin/Debug/netcoreapp3.1/Helpers.String.Escape.pdb
+/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Escape/obj/Debug/netcoreapp3.1/Helpers.String.Escape.csprojAssemblyReference.cache
+/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Escape/obj/Debug/netcoreapp3.1/Helpers.String.Escape.AssemblyInfoInputs.cache
+/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Escape/obj/Debug/netcoreapp3.1/Helpers.String.Escape.AssemblyInfo.cs
+/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Escape/obj/Debug/netcoreapp3.1/Helpers.String.Escape.csproj.CoreCompileInputs.cache
+/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Escape/obj/Debug/netcoreapp3.1/Helpers.String.Escape.dll
+/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Escape/obj/Debug/netcoreapp3.1/Helpers.String.Escape.pdb
+/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Escape/bin/Debug/netcoreapp3.1/JetBrains.ReSharper.TestRunner.Abstractions.dll
+/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Escape/bin/Debug/netcoreapp3.1/JetBrains.ReSharper.TestRunner.Abstractions.pdb
+/Users/ridhatemala/RiderProjects/DeveloperHelpers/Helpers.String.Escape/obj/Debug/netcoreapp3.1/Helpers.String.Escape.csproj.CopyComplete

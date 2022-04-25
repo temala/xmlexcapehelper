@@ -1,0 +1,37 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=511ab0c5_002D81c3_002D4864_002D8c39_002D61320acd7e61/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Process_shouldEscapeGivenString #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::3F51C639-D82C-4EF0-A217-851504E673DF::.NETCoreApp,Version=v3.1::Helpers.String.Escape.Test.StringEscaperTest.Process_shouldEscapeGivenString&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7ab75de1_002D8d55_002D40ae_002D84ea_002Df52474d98a3c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Process_shouldEscapeGivenString #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;MSTest::3F51C639-D82C-4EF0-A217-851504E673DF::.NETCoreApp,Version=v3.1::Helpers.String.Modifiers.Test.XmlIdentationManagerTest.Process_shouldEscapeGivenString&lt;/TestId&gt;
+      &lt;TestId&gt;MSTest::3F51C639-D82C-4EF0-A217-851504E673DF::.NETCoreApp,Version=v3.1::Helpers.String.Modifiers.Test.XmlStringEscaperTest.Process_shouldEscapeGivenString&lt;/TestId&gt;
+      &lt;TestId&gt;MSTest::3F51C639-D82C-4EF0-A217-851504E673DF::.NETCoreApp,Version=v3.1::Helpers.String.Modifiers.Test.XmlIdentationManagerTest.Process_shouldIdentGivenString&lt;/TestId&gt;
+      &lt;TestId&gt;MSTest::3F51C639-D82C-4EF0-A217-851504E673DF::.NETCoreApp,Version=v3.1::Helpers.String.Modifiers.Test.StringHelpersTest&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+    &lt;ProjectFile&gt;3F51C639-D82C-4EF0-A217-851504E673DF/f:XmlStringEscaperTest.cs&lt;/ProjectFile&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=847e676b_002Df7e8_002D456c_002D8384_002D8678153b9310/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Process_shouldEscapeGivenString #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::3F51C639-D82C-4EF0-A217-851504E673DF::.NETCoreApp,Version=v3.1::Helpers.String.Escape.Test.StringEscaperTest.Process_shouldEscapeGivenString&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a38b7c76_002D326a_002D43b7_002D8195_002D78a39c4e0348/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Process_shouldEscapeGivenString #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::3F51C639-D82C-4EF0-A217-851504E673DF::.NETCoreApp,Version=v3.1::Helpers.String.Escape.Test.StringEscaperTest.Process_shouldEscapeGivenString&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dc346474_002Dc2f2_002D4110_002Dabb6_002Dd9139ed40fa5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Process_shouldEscapeGivenString" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::3F51C639-D82C-4EF0-A217-851504E673DF::.NETCoreApp,Version=v3.1::Helpers.String.Escape.Test.StringEscaperTest.Process_shouldEscapeGivenString&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4b491179_002D65ba_002D4604_002Dbcec_002Da7afc7a730a2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Process_shouldEscapeGivenString #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::3F51C639-D82C-4EF0-A217-851504E673DF::.NETCoreApp,Version=v3.1::Helpers.String.Escape.Test.StringEscaperTest.Process_shouldEscapeGivenString&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

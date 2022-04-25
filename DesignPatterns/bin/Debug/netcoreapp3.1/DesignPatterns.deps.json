@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DesignPatterns/1.0.0": {
+        "dependencies": {
+          "Helpers.String.Modifiers": "1.0.0"
+        },
+        "runtime": {
+          "DesignPatterns.dll": {}
+        }
+      },
+      "Helpers.String.Modifiers/1.0.0": {
+        "runtime": {
+          "Helpers.String.Modifiers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesignPatterns/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Helpers.String.Modifiers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
